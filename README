@@ -1,0 +1,3 @@
+#Compile me:
+../../../../models/MITgcm/tools/genmake2 -mods=../code -rootdir /home/156/jm5970/models/MITgcm
+

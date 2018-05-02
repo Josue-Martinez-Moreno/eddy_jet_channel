@@ -1,0 +1,6 @@
+# Unnecessary files
+build/
+#input/
+input_files/
+run/
+
